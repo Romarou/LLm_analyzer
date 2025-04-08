@@ -4,3 +4,7 @@ torch
 pandas
 scikit-learn
 numpy
+sentence-transformers
+faiss-cpu 
+PyPDF2 
+pillow 
